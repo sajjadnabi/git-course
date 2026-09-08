@@ -11,3 +11,8 @@ git commit -m "XXXX"(when we want to commit we have to do it with a message
 every time we change a file first we have to bring it to staging area and after that commit and we do it with git add filename
 if we wanted to scape the staging part we can do this : git commit -a -m "message"
 with git diff it will show you the changes int he file 
+if the file is in staging area we ahve to use git diff --staged
+the git uses .md for readme file it makes it better 
+and U beside the file means untracked 
+M mean modified 
+with git add we can add all the files by their names ot we can do git add .(dot) for all files 
