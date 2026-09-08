@@ -16,3 +16,25 @@ the git uses .md for readme file it makes it better
 and U beside the file means untracked 
 M mean modified 
 with git add we can add all the files by their names ot we can do git add .(dot) for all files 
+the letter beside the file will change to A which means added
+if we deleted a file amnualy it doenst get deleted from working directory we have to delete it fromt he git 
+for deleting : git rm --chached file name --> after that we can delet the file 
+
+for downloading from git hun we can use http we can use git clone and past the address
+
+for making a remote repsetory : 
+echo "# git-course" >> README.md  -> echo will make this messafe ( git course) to the readme file --> after that with cat file name we can read the content 
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main --> here is for getting the main branch 
+git remote add origin https://github.com/sajjadnabi/git-course.git / this is for SSH git@github.com:sajjadnabi/git-course.git see ***
+git push -u origin main --> here we are pushing from local to remote repository 
+
+
+*** in order to avoid loging in every time --> ssh-keygen -o for generating 
+then we do ls -a 
+then we go to .ssh folder : cd .ssh 
+then ls -Athen we open it : cat id_rsa.pub we find the key and then we copy the key 
+then with control command we open uf seeting in github and go to ssh folder we click on new ssh and we past it there
+then we do git remote 
