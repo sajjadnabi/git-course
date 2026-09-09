@@ -49,6 +49,7 @@ Tag:
 it can be used for version for examplo 
 git tag shows us the tags --> we have 2 options here : annotated tagging and lightweight tagging
 for users we use annotated taging so we use option -a and -m is for message --> git tag -a XXX V1.0 -m "firsst version"
-with git show then version we can see detail information about tha tparticular tag 
-
+with git show then version we can see detail information about that particular tag 
+we also need to push the tags seperately 
+for that git push origin version
 
