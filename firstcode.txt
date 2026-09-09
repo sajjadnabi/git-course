@@ -67,6 +67,9 @@ git switch -c"name of branch" or git checkout -b "new branch"
 for switching 
 git switch "branch name"
 with git branch we can check we we are -> the one with star is active
+git branch --all -_> we can see al the branches inclusive remote 
+git switch - -_> we will get back to our previous branch 
+git branch -d --> for deleting the branch 
 
 
 
