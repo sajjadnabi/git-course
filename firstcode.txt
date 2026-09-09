@@ -38,3 +38,17 @@ then we go to .ssh folder : cd .ssh
 then ls -Athen we open it : cat id_rsa.pub we find the key and then we copy the key 
 then with control command we open uf seeting in github and go to ssh folder we click on new ssh and we past it there
 then we do git remote 
+
+for pushing we can use the szstanx --> git push origin main --> main is the branch 
+
+origin : 
+fo seeing origin we can use git remote -v
+and we can connect to different origings 
+
+Tag: 
+it can be used for version for examplo 
+git tag shows us the tags --> we have 2 options here : annotated tagging and lightweight tagging
+for users we use annotated taging so we use option -a and -m is for message --> git tag -a XXX V1.0 -m "firsst version"
+with git show then version we can see detail information about tha tparticular tag 
+
+
