@@ -7,3 +7,6 @@ log in and log our
 doing changes for admin 
 closing the connection 
 >>>>>>> feature2
+
+
+change 3 
