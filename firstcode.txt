@@ -53,3 +53,15 @@ with git show then version we can see detail information about that particular t
 we also need to push the tags seperately 
 for that git push origin version
 
+CLONING A PROJECT:
+we can find our repository and then go to http nad we can also do it int erminal 
+git clone copy past th url 
+after opening the file in vs code 
+in order to get particular information about a log we canw rite : 
+git log --pretty=oneline ->> we will see commit and the messages 
+when its particular path we should use git add path and file (if we ar enot there)
+
+GIT BRANCH:
+
+
+
