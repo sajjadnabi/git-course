@@ -1,4 +1,9 @@
 making everythign ready for pushing the new branch 
 
+<<<<<<< HEAD
 log in and log our 
  2 features 
+=======
+doing changes for admin 
+closing the connection 
+>>>>>>> feature2
