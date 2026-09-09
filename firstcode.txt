@@ -62,6 +62,13 @@ git log --pretty=oneline ->> we will see commit and the messages
 when its particular path we should use git add path and file (if we ar enot there)
 
 GIT BRANCH:
+we want to creat a branch git checkout which is old the new one is 
+git switch -c"name of branch" or git checkout -b "new branch"
+for switching 
+git switch "branch name"
+with git branch we can check we we are -> the one with star is active
+
+
 
 
 
