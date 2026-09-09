@@ -71,6 +71,8 @@ git branch --all -_> we can see al the branches inclusive remote
 git switch - -_> we will get back to our previous branch 
 git branch -d --> for deleting the branch 
 git push origin new_branch --> for pushing it into repository 
+with git log --graph we can see the graph 
+we can also isntall git graph 
 
 
 
