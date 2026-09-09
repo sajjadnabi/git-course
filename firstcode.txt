@@ -70,6 +70,7 @@ with git branch we can check we we are -> the one with star is active
 git branch --all -_> we can see al the branches inclusive remote 
 git switch - -_> we will get back to our previous branch 
 git branch -d --> for deleting the branch 
+git push origin new_branch --> for pushing it into repository 
 
 
 
