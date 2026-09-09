@@ -82,6 +82,10 @@ for  merging we can use merge and rebase
 in rebase we dont see the branches we sse a straight line 
 
 
+for getting back: 
+git checkout then we pase the comit ID that we got fromt he commit log 
+
+
 
 
 
