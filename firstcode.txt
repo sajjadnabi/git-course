@@ -72,7 +72,10 @@ git switch - -_> we will get back to our previous branch
 git branch -d --> for deleting the branch 
 git push origin new_branch --> for pushing it into repository 
 with git log --graph we can see the graph 
-we can also isntall git graph 
+we can also install git graph 
+for merging the branches we have to be on main branch and we use git merge
+befor psuhin its better to do the pull 
+git pull origin "branch name"
 
 
 
