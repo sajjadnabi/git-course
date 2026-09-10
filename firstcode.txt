@@ -86,6 +86,20 @@ for getting back:
 git checkout then we pase the comit ID that we got fromt he commit log 
 
 
+Git STASH: 
+when we want to work on a file and we want to switch without commiting we get an error 
+because we ddint commit the changes but somtimes we dont want to commit so we do stage to save the code without commiting 
+
+git stash --> for saving without commiting 
+git stash list --> for finding it again we use 
+git stash apply --> will save the changes and aoooly them 
+
+
+GIT FORK : 
+we get code from others repository to our repository we do it un git hub 
+
+
+
 
 
 
