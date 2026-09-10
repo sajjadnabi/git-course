@@ -98,6 +98,9 @@ git stash apply --> will save the changes and aoooly them
 GIT FORK : 
 we get code from others repository to our repository we do it un git hub 
 
+PUL request: 
+when we clone a code froms ombody change it and want to send it back we use pull request 
+
 
 
 
